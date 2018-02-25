@@ -1,16 +1,23 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
+title: Web U Projectについて
+is_profile: true
+categories: [profile]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+### 社名
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
+### 事業内容
 
-### dbyll is on GitHub
+### 代表者名
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+### 経歴
+
+### スキル
+
+### Mail
+
+- こんにちは世界

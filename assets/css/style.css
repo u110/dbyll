@@ -12,6 +12,10 @@ body{
 	color: #fff;
 }
 
+.img-icon { max-width: 200px; }
+.icon-middle { max-width: 50px; }
+.icon-small { max-width: 50px; }
+
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
